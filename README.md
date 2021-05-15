@@ -7,4 +7,4 @@ Aspiro ter uma segunda opção de carreira, bem como
 ser capaz de conciliar meus conhecimentos de química com a programação,
 desenvolvendo softwares para instrumentos de análise, simuladores, jogos educacionais e afins.
 
-# E bora trabalhar!
+## E bora trabalhar!
